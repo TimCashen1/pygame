@@ -1,0 +1,15 @@
+.picture {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    margin: 25px 50px 25px 50px;
+    border: solid 5px;
+}
+
+body {
+    background-color: rgb(233, 210, 175);
+    color: black;
+}
+.output {
+    font-family: "times new roman";
+}
